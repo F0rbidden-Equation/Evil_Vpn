@@ -1,2 +1,2 @@
  Openvpn
- EasyRSA-3.0.4.
+ EasyRSA-3.0.4
