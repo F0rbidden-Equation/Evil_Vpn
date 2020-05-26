@@ -13,8 +13,7 @@ Openvpn Rotation servers clients  RSA certificats Security 4096Bits (easy-rsa) :
    Plugins  OpenVpn
 ```
 >Project Rotation IP IPSEC
-```
-   Serveur SSH Backported
+```TCP/IP Tunneling ipv6 Backporté ipv4
    RSA certificats Key 4096 bits ipsec StrongSwan
    Tunneling IKEv2
    Transport L2TP/IPsec/IKEv1
