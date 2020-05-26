@@ -8,4 +8,8 @@ Openvpn Rotation servers clients  RSA certificats Security 4096Bits (easy-rsa) :
    PKI /openssl/auth 
    SHA256/AES-256-CBC
    Hooks/Entropie Cryptography/Signature/IPV6
+   Firewall OpenVpn
+   Plugins  OpenVpn 
+
+
 ```
