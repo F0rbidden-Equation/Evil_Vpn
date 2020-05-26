@@ -1,4 +1,4 @@
-go secure  ... lamers !!! 2048 lol Donny is a massive faggot, suck my key Donny !!! :)
+go secure  ... lamers !!! 2048 lol Donny is a massive faggot, suck my key Donny !!! you is bad , like a scriptkiddies :)
 # Evil_Vpn GUI
 Openvpn Rotation servers clients  RSA certificats Security 4096Bits (easy-rsa) :) 
 >Project Rotation IP openvpn 
