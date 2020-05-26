@@ -3,7 +3,7 @@ go secure  ... lamers !!!  :)
 Openvpn Rotation servers clients  RSA certificats Security 4096Bits (easy-rsa) :) 
 ### Project Rotation IP openvpn 
 ```
-   RSA certificats 4096
+   >RSA certificats 4096
    ciphers/digest
    Tunnel level 2 
    PKI /openssl
@@ -12,7 +12,7 @@ Openvpn Rotation servers clients  RSA certificats Security 4096Bits (easy-rsa) :
    Firewall OpenVpn
    Plugins  OpenVpn
    ----------- part 2 (advanced) ------------
-   ##SERVEUR IPSEC
+   
 
 
 ```
