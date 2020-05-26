@@ -11,9 +11,4 @@ Openvpn Rotation servers clients  RSA certificats Security 4096Bits (easy-rsa) :
    Hooks/Entropie Cryptography/Signature/IPV6
    Firewall OpenVpn
    Plugins  OpenVpn
-   
-   ----------- part 2 (advanced) ------------
-   
-
-
 ```
