@@ -1,5 +1,3 @@
-go secure  ... lamers !!! 2048 lol Donny is a massive lamers  :)
-**The term lamer is more common in the world of piracy. These are technophiles who generally have almost no knowledge in the field of piracy,
 
 # Evil_Vpn GUI
 Openvpn Rotation servers clients  RSA certificats Security 4096Bits (easy-rsa) :) 
