@@ -1,4 +1,4 @@
-evilbox look my bots soon !!! OPstormBots
+
 # Evil_Vpn GUI
 Openvpn Rotation servers clients  RSA certificats Security 4096Bits (easy-rsa) :) 
 >Project Rotation IP openvpn 
